@@ -1,10 +1,11 @@
-# 基于SSH的求职招聘管理系统
+# 基于SSH的求职招聘管理系统2
 
 ## 获取方式
 
 关注公众号： **程序员王不二**，回复关键词  ：**求职2**
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
 
 ## 1、项目介绍
 
@@ -26,7 +27,7 @@
 - JAVA版本：JDK1.8，其它版本理论上可以
 - IDE类型：IDEA、Eclipse
 - tomcat版本：Tomcat 7（资料包中已提供）
-- 数据库版本：MySql 5.x
+- 数据库版本：MySql 5.x和MySQL8都可
 - 硬件环境：Windows 或者 Mac OS
 
 
@@ -34,43 +35,37 @@
 
 ### 4.1 首页
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537453.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202206121537453.jpg)
 
 ### 4.2 用户模块
 
-![用户-查看招聘信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537567.jpg)
+![用户-查看招聘信息](https://www.codeshop.fun/Typora-Images/202206121537567.jpg)
 
 ### 4.3 公司模块
 
-![企业-求职信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537640.jpg)
+![企业-求职信息查看](https://www.codeshop.fun/Typora-Images/202206121537640.jpg)
 
-![企业-求职资讯管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537813.jpg)
+![企业-求职资讯管理](https://www.codeshop.fun/Typora-Images/202206121537813.jpg)
 
-![企业-招聘信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537993.jpg)
+![企业-招聘信息管理](https://www.codeshop.fun/Typora-Images/202206121537993.jpg)
 
-![企业信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538472.jpg)
+![企业信息管理](https://www.codeshop.fun/Typora-Images/202206121538472.jpg)
 
-![企业-详情信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538485.jpg)
+![企业-详情信息](https://www.codeshop.fun/Typora-Images/202206121538485.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-所有招聘管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538824.jpg)
+![管理员-所有招聘管理](https://www.codeshop.fun/Typora-Images/202206121538824.jpg)
 
-![管理员-求职者信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538412.jpg)
+![管理员-求职者信息管理](https://www.codeshop.fun/Typora-Images/202206121538412.jpg)
 
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538905.jpg)
+![管理员-留言管理](https://www.codeshop.fun/Typora-Images/202206121538905.jpg)
 
-![管理员-友情链接管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538142.jpg)
+![管理员-友情链接管理](https://www.codeshop.fun/Typora-Images/202206121538142.jpg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538598.jpg)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202206121538598.jpg)
 
-## 5、视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**求职2**
 
 ![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
